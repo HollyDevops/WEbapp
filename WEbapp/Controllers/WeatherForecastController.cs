@@ -8,7 +8,7 @@ namespace WEbapp.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing!", "Bracing", "Chilly", "Cool!", "Mild!", "Warm!", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing!", "Bracing", "Chilly", "Cool!", "Mild!", "Warm!", "Balmy", "Hot", "Sweltering", "Scorching","making a forced change"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
