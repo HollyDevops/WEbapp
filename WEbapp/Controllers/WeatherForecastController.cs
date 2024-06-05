@@ -9,7 +9,7 @@ namespace WEbapp.Controllers
         private static readonly string[] Summaries = new[]
         {
 
-            "Freezing!", "Bracing", "Chilly", "Cool!", "Mild!", "Warm!", "Balmy!", "Hot!", "Sweltering", "Scorching200"
+            "Freezing!", "Bracing", "Chilly", "Cool!", "Mild!", "Warm!", "Balmy!", "Hot!", "Sweltering!", "Scorching200"
 
         };
 
